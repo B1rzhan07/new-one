@@ -1,0 +1,20 @@
+.content-item {
+    display: flex;
+    width: 100%;
+    padding: 12px 12px;
+}
+
+.content-column {
+    flex-basis: 30%;
+    border: 1px solid black;
+}
+
+.content-centre {
+    flex-basis: 40%;
+    border: 1px solid black;
+}
+
+.content-right {
+    flex-basis: 30%;
+    border: 1px solid black;
+}

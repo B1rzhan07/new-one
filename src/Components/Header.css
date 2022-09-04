@@ -1,0 +1,16 @@
+.searchItem {
+    position: absolute;
+    inset: 0px auto auto 0px;
+    margin: 0px;
+    transform: translate3d(287.5px, 70px, 0px);
+}
+
+.headerItem {
+    min-height: 30px;
+    border-bottom: 1px solid grey;
+}
+
+.icon-item {
+    font-size: 40px;
+    margin-right: 5px;
+}
